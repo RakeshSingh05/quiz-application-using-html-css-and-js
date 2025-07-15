@@ -8,13 +8,10 @@
 }
 
 body{
-    background: #0439e9ea;
-
-}
-
-::selection{
-    color: #fff;
-    background: #0439e9ea;
+    background-image: url(Assets/background.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
 }
 
 .info_box,
